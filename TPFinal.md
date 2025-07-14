@@ -29,6 +29,11 @@ Para saber mas sobre este videojuego y si desea comprarlo haga [click aqui.](htt
 
 En **The Forest**, el jugador tiene el objetivo de sobrevivir y rescatar a su hijo desaparecido, después de que el avión en el que viajaban se estrellara en una isla llena de nativos mutantes y caníbales, que habitan en cuevas profundas debajo de la península y en poblados sobre su superficie
 el jugador dispone de un *libro de supervivencia* que lo guiará para sobrevivir mediante la creación de un refugio, armas y otras herramientas de supervivencia. Se podrán encontrar armas como una hacha vieja, un arco moderno o una pistola. El juego cuenta con un ciclo de día y noche. El jugador puede construir un refugio y trampas, cazar animales y recoger suministros durante el día, y defenderse de las criaturas mutantes por la noche. 
+Este videojuego tambien tiene varias implementaciones que añaden al gameplay:
+- Lore.
+- Ataques de mutantes.
+- Enemigos con inteligencia.
+- Un final.
 >Recomendado
 23.5 h registradas
 me excito con los cadaveres de los canibales
@@ -81,6 +86,12 @@ Para saber mas sobre este videojuego y si desea comprarlo haga [click aqui.](htt
 ![Imagen7](https://www.psu.com/wp/wp-content/uploads/2018/12/subnautica-review.png)
  **Subnautica** es un juego de *acción-aventura* y supervivencia desarrollado y publicado por **Unknown Worlds Entertainment.** Permite al jugador explorar libremente un planeta oceánico alienígena, conocido como *4546B*, recolectando recursos para sobrevivir, desarrollando una historia a lo largo del juego
 Subnautica es un juego de supervivencia y aventura ambientado en un mundo abierto y jugado desde una perspectiva en primera persona. El jugador controla al único superviviente de una nave espacial estrellada, llamada Aurora, en el ficticio planeta oceánico 4546B. Ayudado de su PDA (por sus siglas en inglés: **Personal Digital Assistant**), el jugador deberá explorar el mundo del juego y sobrevivir a los peligros del planeta mientras que al mismo tiempo sigue la historia del juego. Subnautica le permite al jugador recolectar recursos, construir herramientas, bases e interactuar con la vida salvaje del planeta. El juego incluye un ciclo diurno y nocturno que afecta la jugabilidad y el entorno. Se desarrolla casi por completo bajo el agua, salvo por un par de zonas. 
+Actualmente este juego cuenta con 4 dificultades de mas facil a mas dificil:
+1. Modo Creativo
+2. Modo Libre
+3. Modo Supervivencia
+4. Modo Extremo
+
 >Recomendado
 49.8 h registradas (8.8 h cuando escribió la reseña)
 tengo talasofobia y nictofobia pero hago mi esfuerzo para q no me dé la pálida en medio del juego. me encanta.
@@ -104,6 +115,7 @@ Para saber mas sobre este videojuego y si desea comprarlo haga [click aqui.](htt
 ![Imagen9](https://upload.wikimedia.org/wikipedia/en/0/0c/Boxshot_of_video_game_Project_zomboid.jpg)
 
 Project Zomboid es un juego de *terror* y supervivencia de mundo abierto, actualmente en acceso anticipado y desarrollado por el estudio independiente The Indie Stone. El juego está ambientado en un mundo **postapocalíptico** infestado de zombis donde el jugador tiene el desafío de sobrevivir el mayor tiempo posible antes de su muerte inevitable. Este videojuego tiene un punto de vista **isometrico** el cual da una ilusion de un mundo **3D**. El mundo de Project Zomboid viene **pregenerado** y siempre es el mismo, con los unicos elementos aleatorios siendo los zombies y el loot. Una de las mecanicas mas importantes de este juego son las estructuras del usuario ya que uno es capaz de construir diferentes **defensas** para evitar el avanze de los zomboids(Nombre de los zombies dentro de este videojuego.) a lo que podria ser tu base o donde resguardes tus recursos valiosos, estas defensas tambien se pueden utilizar para evitar el avanze de jugadores ya que este juego te permite jugar en multijugador en *servidores* creados por otros usuarios.
+
 >Recomendado
 404.5 h registradas (399.1 h cuando escribió la reseña)
 Reseña de acceso anticipado
@@ -121,6 +133,12 @@ El juego se centra en la colocación y destrucción de bloques, siendo que este 
 
 Los jugadores son libres de desplazarse por su entorno y **modificarlo** mediante la creación, recolección y transporte de los bloques que componen al juego, los cuales solo pueden ser colocados respetando la *rejilla fija* del juego. Los jugadores son capaces de crear además las denominadas **granjas**, que son estructuras y mecanismos para conseguir un fin, aprovechándose de ciertas mecánicas del juego. En ciertos casos, algunas de ellas se terminan implementando al juego, como el observador. En el juego se pueden encontrar estructuras especiales como aldeas, galerías mineras, templos marinos, pirámides y templos selváticos.
 
+Este juego tambien tiene muchas versiones de las cuales se destacan:
+- Minecraft Java Edition
+- Minecraft Bedrock Edition
+- Minecraft Pocket Edition
+- Minecraft Story Mode
+  
 El jugador tiene la libertad de definir la dificultad del juego, siendo el modo más tranquilo el pacífico, que a diferencia de las demás dificultades, no permite que aparezcan monstruos en el juego que puedan herir al jugador.
 >4/5 
 Minecraft es un videojuego de construcción de tipo mundo abierto o en inglés sandbox creado originalmente por el sueco Markus Persson, que creó posteriormente Mojang Studios.
